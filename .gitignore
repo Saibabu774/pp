@@ -1,0 +1,55 @@
+# Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Environment Variables
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Node modules (Frontend)
+node_modules/
+
+# Vite
+frontend/dist/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Docker
+*.pid
